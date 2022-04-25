@@ -2,10 +2,7 @@
 title: Nuestra Boda💍
 
 # Your Website URL
-url: 'http://your-url.github.io'
-
-# Leave it default
-baseurl: '' 
+url: 'https://nuestra-boda.github.io/
 
 # Google Analytics
 ga_index: UA-XXXXXXXX-X
@@ -13,7 +10,7 @@ ga_cv: UA-XXXXXXXX-X
 
 # Index page and Profile Information
 name: NUESTRA BODA 💍
-tagline: Software Developer, IoT, Reverse Engineering
+tagline: SI NO RECUERDAS LA LOCURA EN LA QUE EL AMOR TE HIZO CAER ES QUE NO HAS AMADO ❤
 pic: profile.png # profile.png can be found at /assets/images/profile.png
 description: Full Stack Developer, IoT, Reverse Engineering
 description_tiny: 'Home: +60-4 | Studied: +1-408 | Work: +60-3'
