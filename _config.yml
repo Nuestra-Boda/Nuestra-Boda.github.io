@@ -11,7 +11,7 @@ ga_cv: UA-XXXXXXXX-X
 # Index page and Profile Information
 name: NUESTRA BODA 💍
 tagline: SI NO RECUERDAS LA LOCURA EN LA QUE EL AMOR TE HIZO CAER ES QUE NO HAS AMADO ❤
-pic: profile.png # profile.png can be found at /assets/images/profile.png
+pic: 
 description: Full Stack Developer, IoT, Reverse Engineering
 description_tiny: 'Home: +60-4 | Studied: +1-408 | Work: +60-3'
 email: you.email.email@gmail.com
