@@ -10,20 +10,11 @@ ga_cv: UA-XXXXXXXX-X
 
 # Index page and Profile Information
 name: NUESTRA BODA 💍
-tagline: SI NO RECUERDAS LA LOCURA EN LA QUE EL AMOR TE HIZO CAER ES QUE NO HAS AMADO ❤
+tagline: "SI NO RECUERDAS LA LOCURA EN LA QUE EL AMOR TE HIZO CAER ES QUE NO HAS AMADO" ❤
 pic: 
 description: ENCUENTRA INFORMACIÓN SOBRE EL GRAN DÍA 
-description_tiny: AMOR+AMOR=FELICIDAD
+description_tiny: AMOR+AMOR=FELICIDAD 💑
 email: nuestrabodaeym@gmail.com
-website: melvinchng.github.io # do not add http://
-linkedin: realmelvinchng
-github: melvinchng
-twitter: '@realmelvinchng'
-
-# Files or folders to be excluded
-exclude: [gitbook_source_code/]
-
-# All the plugins for Jekyll
-plugins:
-  - jekyll-sitemap
-  - wdm
+website: nuestra-boda.github.io
+github: Nuestra-Boda
+twitter: '@nuestrabodaeym'
