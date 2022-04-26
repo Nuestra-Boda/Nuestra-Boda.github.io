@@ -13,7 +13,7 @@ ga_cv: UA-XXXXXXXX-X
 # Index page and Profile Information
 name: NUESTRA BODA 💍
 tagline: "SI NO RECUERDAS LA LOCURA EN LA QUE EL AMOR TE HIZO CAER ES QUE NO HAS AMADO" ❤
-pic: 
+pic: profile.png # profile.png can be found at /assets/images/profile.png
 description: ENCUENTRA INFORMACIÓN SOBRE EL GRAN DÍA 
 description_tiny: AMOR+AMOR=FELICIDAD 💑
 email: nuestrabodaeym@gmail.com
