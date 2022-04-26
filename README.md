@@ -1,4 +1,6 @@
-# Jekyll For Everyone
+[NUESTRA-HISTORIA](./NUESTRA-HISTORIA.md)| [ITINERARIO](./ITINERARIO.md) | [LUGAR-Y-FECHA](./LUGAR-Y-FECHA.md)  | [MESA-DE-REGALOS](./MESA-DE-REGALOS.md)  | [PADRINOS](./PADRINOS.md) | [CONTACTO](./CONTACTO.md)
+- - -
+**¡NUESTRA BODA!
 
 Jekyll For Everyone is a package that is designed for everyone. The package contains three major components: homepage, CV, and [Gitbook](http://www.gitbook.com). The index page is a strip down version of [Jekyll Uno](https://github.com/joshgerdes/jekyll-uno) while the CV a modification of [Online CV](https://github.com/sharu725/online-cv). However, [Legacy Gitbook (v3.2.3)](https://github.com/GitbookIO/gitbook) is used instead of modern Gitbook (v4+). The main reason of using it is due to the fact that users can own their source code and edit them locally instead of doing it on the cloud. 
 
